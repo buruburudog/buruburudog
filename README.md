@@ -1,4 +1,5 @@
-<img width="264"  alt="shake" src="https://github.com/user-attachments/assets/2db04a19-3132-49ea-9eeb-8829e22f8a63" />
+<img width="1367" height="2000" alt="Your paragraph text" src="https://github.com/user-attachments/assets/ceb073cb-5fd3-44ae-be6b-780fe6b2b753" />
+
 
 <!--
 **buruburudog/buruburudog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
